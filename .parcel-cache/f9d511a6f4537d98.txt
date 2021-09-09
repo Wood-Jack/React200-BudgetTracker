@@ -62,7 +62,7 @@
 58D:\CodingSchool\ReactProjects\ReduxBudgetTracker\.eslintrc132755110323490000 0
 77D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\combined-stream132755069019042178 1
 99D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\resolve\test\node_path\x\ccc\index.js121436361000000000 0
-61D:\CodingSchool\ReactProjects\ReduxBudgetTracker\package.json132755106372439998 0
+61D:\CodingSchool\ReactProjects\ReduxBudgetTracker\package.json132756025758218364 0
 100D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\rxjs\src\util\subscribeToObservable.ts121436361000000000 0
 59D:\CodingSchool\ReactProjects\ReduxBudgetTracker\.gitignore132755110320910000 0
 99D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\es5-ext\test\number\to-pos-integer.js121436361000000000 0
@@ -377,7 +377,7 @@
 93D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\ua-parser-js\test\cpu-test.json121436361000000000 0
 82D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\minstache\History.md130475399330000000 0
 88D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\color-convert\package.json132755069057362366 0
-89D:\CodingSchool\ReactProjects\ReduxBudgetTracker\src\js\components\IncomeEntries\index.js132756005739246690 0
+89D:\CodingSchool\ReactProjects\ReduxBudgetTracker\src\js\components\IncomeEntries\index.js132756017749480579 0
 97D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\eslint\lib\rules\linebreak-style.js121436361000000000 0
 84D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\is-typedarray\index.js130762982010000000 0
 128D:\CodingSchool\ReactProjects\ReduxBudgetTracker\node_modules\unset-value\node_modules\has-value\node_modules\isobject\README.md131060918360000000 0
